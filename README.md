@@ -1,11 +1,10 @@
 # Laser-Strategy
 
-[![Static Badge](https://img.shields.io/badge/pygame-maroon)](https://praw.readthedocs.io/en/stable/)
-[![Static Badge](https://img.shields.io/badge/numpy-olive)](https://docs.python.org/3/library/datetime.html)
-[![Static Badge](https://img.shields.io/badge/sys-Green)](https://pypi.org/project/holidays/)
-[![Static Badge](https://img.shields.io/badge/math-Purple)](https://pypi.org/project/wikipedia/)
-[![Static Badge](https://img.shields.io/badge/random-Teal)](https://pypi.org/project/pycountry/)
-[![Static Badge](https://img.shields.io/badge/random-Navy)](https://pypi.org/project/pycountry/)
+[![Static Badge](https://img.shields.io/badge/pygame-maroon)](https://pypi.org/project/pygame/)
+[![Static Badge](https://img.shields.io/badge/numpy-olive)](https://pypi.org/project/numpy/)
+[![Static Badge](https://img.shields.io/badge/sys-Green)](https://pypi.org/project/os-sys/)
+[![Static Badge](https://img.shields.io/badge/math-Purple)](https://pypi.org/project/python-math/)
+[![Static Badge](https://img.shields.io/badge/random-Teal)](https://pypi.org/project/random-number/)
 
 Is an interactive graphical simulation using the Pygame library, featuring laser and detector dynamics. It initializes a graphical window with interactive objects like lasers, boxes, and doors, and allows interaction through mouse events. Lasers are dynamically created and can be moved, and collision detection is used for movement or AI decision-making. The application manages interaction using Pygame's event system.
 
@@ -24,9 +23,9 @@ Is an interactive graphical simulation or game built using the Pygame library. I
 The Pygame library is a powerful tool for creating interactive graphical simulations or games. It provides essential tools for graphics rendering, input events, and other game-related functionalities. The game uses a graphical window to draw and manipulate various objects, such as lasers, boxes, and doors, which play crucial roles in gameplay. Lasers are dynamically created within the game, with each having a direction and players can interact with them through mouse events. A detector object is implemented to detect the path of the laser, adding realism and complexity to the simulation. The game employs the A* (A-star) algorithm for pathfinding, establishing optimal paths between points for movement or AI decision-making. Players can drag boxes and lasers within the game, which affects gameplay mechanics or puzzle-solving. The game checks for collisions between objects and updates the state of affected objects accordingly. Pygame's event system tracks and responds to user inputs, triggering specific actions within the game. It is essential to fine-tune gameplay mechanics, optimize performance, and create engaging levels or scenarios to make the simulation enjoyable for players.
 
 # Installation
-1) HTTPS - https://github.com/Statute8234/HolidayPosterBot.git
-2) CLONE - Statute8234/HolidayPosterBot.git
-
+1) HTTPS - https://github.com/Statute8234/Laser-Strategy.git
+2) CLONE - Statute8234/Laser-Strategy.git
+   
 # Usage
 GitHub is a popular platform for game development and network programming, offering benefits such as version control, collaboration, and code sharing. It allows developers to maintain versions of their games or software, manage changes over time, and revert to previous versions if necessary. Collaboration is also facilitated by allowing multiple developers to work on the same project simultaneously without interfering with each other's work.
 
