@@ -1,12 +1,10 @@
 # Laser-Strategy
+Is an interactive graphical simulation using the Pygame library, featuring laser and detector dynamics. It initializes a graphical window with interactive objects like lasers, boxes, and doors, and allows interaction through mouse events. Lasers are dynamically created and can be moved, and collision detection is used for movement or AI decision-making. The application manages interaction using Pygame's event system.
 
 [![Static Badge](https://img.shields.io/badge/pygame-maroon)](https://pypi.org/project/pygame/)
-[![Static Badge](https://img.shields.io/badge/numpy-olive)](https://pypi.org/project/numpy/)
-[![Static Badge](https://img.shields.io/badge/sys-Green)](https://pypi.org/project/os-sys/)
-[![Static Badge](https://img.shields.io/badge/math-Purple)](https://pypi.org/project/python-math/)
-[![Static Badge](https://img.shields.io/badge/random-Teal)](https://pypi.org/project/random-number/)
-
-Is an interactive graphical simulation using the Pygame library, featuring laser and detector dynamics. It initializes a graphical window with interactive objects like lasers, boxes, and doors, and allows interaction through mouse events. Lasers are dynamically created and can be moved, and collision detection is used for movement or AI decision-making. The application manages interaction using Pygame's event system.
+[![Static Badge](https://img.shields.io/badge/random,-silver)](https://pypi.org/project/random,/)
+[![Static Badge](https://img.shields.io/badge/pathfinding-teal)](https://pypi.org/project/pathfinding/)
+[![Static Badge](https://img.shields.io/badge/numpy-brown)](https://pypi.org/project/numpy/)
 
 # Table of Contents
 
